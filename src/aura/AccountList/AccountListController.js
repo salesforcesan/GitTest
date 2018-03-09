@@ -4,6 +4,9 @@
     helper.getAccountList(component);
 
     //This is sample test 1
+    //This is sample test 2
+    //This is sample test 3
+    //This is sample test 5
   },
   deleteAccount: function(component, event, helper) {
     // Prevent the form from getting submitted
