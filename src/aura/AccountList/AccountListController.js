@@ -2,6 +2,8 @@
   doInit: function(component, event, helper) {      
     // Fetch the account list from the Apex controller   
     helper.getAccountList(component);
+
+    //This is sample test 1
   },
   deleteAccount: function(component, event, helper) {
     // Prevent the form from getting submitted
