@@ -7,6 +7,7 @@
     //This is sample test 2
     //This is sample test 3
     //This is sample test 5
+    //This is sample test 6
   },
   deleteAccount: function(component, event, helper) {
     // Prevent the form from getting submitted
